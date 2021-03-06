@@ -1,2 +1,2 @@
 # mypage
-first github page pf Ramiz
+first github page of Ramiz
